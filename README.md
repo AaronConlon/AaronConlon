@@ -9,15 +9,15 @@ I'm `Aaron`, If you have any web development needs, please feel free to contact 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-Total Time: 7 hrs 11 mins
+Total Time: 8 hrs 48 mins
 
-Vue.js       4 hrs 9 mins    ██████████████▒░░░░░░░░░░   57.81 %
-TypeScript   1 hr 55 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
-Other        21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-YAML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Vue.js       4 hrs 59 mins   ██████████████▒░░░░░░░░░░   56.70 %
+TypeScript   2 hrs 39 mins   ███████▓░░░░░░░░░░░░░░░░░   30.24 %
+Other        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
