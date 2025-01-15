@@ -7,7 +7,8 @@ I'm `Aaron`, If you have any web development needs, please feel free to contact 
 <img alt="Coding gif" src="./assets/Developer.gif" width="45" /> 
 
 **这周我把时间都花在:**
-**This week, I spent all my time on:****
+
+**This week, I spent all my time on:**
 
 <!--START_SECTION:waka-->
 
