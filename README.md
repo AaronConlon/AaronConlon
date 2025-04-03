@@ -15,15 +15,15 @@ I'm working for a tiny remote team.NICE!!!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2025 - To: 01 April 2025
+From: 26 March 2025 - To: 02 April 2025
 
-Total Time: 41 hrs 15 mins
+Total Time: 42 hrs 18 mins
 
-TypeScript    22 hrs 37 mins  █████████████▓░░░░░░░░░░░   54.84 %
-Vue.js        9 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
-Rust          5 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-JSON          1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Prisma        58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+TypeScript    24 hrs 27 mins  ██████████████▒░░░░░░░░░░   57.82 %
+Vue.js        8 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   20.46 %
+Rust          5 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+JSON          1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Prisma        50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
