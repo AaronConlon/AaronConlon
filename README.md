@@ -15,15 +15,15 @@ I'm working for a tiny remote team.NICE!!!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2025 - To: 22 June 2025
+From: 16 June 2025 - To: 23 June 2025
 
-Total Time: 35 hrs 55 mins
+Total Time: 31 hrs 55 mins
 
-TypeScript    32 hrs 30 mins  ██████████████████████▓░░   90.51 %
-CSS           46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-JavaScript    40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-JSON          40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Markdown      25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+TypeScript    28 hrs 29 mins  ██████████████████████▒░░   89.24 %
+CSS           47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+JSON          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+JavaScript    36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Markdown      24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
