@@ -38,7 +38,7 @@ JavaScript    36 mins         ▓░░░░░░░░░░░░░░░�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronConlon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AaronConlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronConlon)](https://github.com/anuraghazra/github-readme-stats)
+[![AaronConlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronConlon&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📫 Reach me
 [![Github Badge](https://img.shields.io/badge/-Github-24292e?style=flat&logo=github&logoColor=white&link=)](https://github.com/AaronConlon) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rivenqinyy@gmail@gmail.com)](mailto:rivenqinyy@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AaronConlonDev)](https://twitter.com/AaronConlonDev)
