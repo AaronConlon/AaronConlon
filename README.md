@@ -8,9 +8,7 @@ I'm working for a tiny remote team.NICE!!!
 
 <img alt="Coding gif" src="./assets/Developer.gif" width="45" /> 
 
-**这周我把时间都花在:**
-
-**This week, I spent all my time on:**
+**This week, I write:**
 
 <!--START_SECTION:waka-->
 
