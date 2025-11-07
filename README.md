@@ -13,15 +13,15 @@ I'm `Aaron`, If you have any web development needs, please feel free to contact 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2025 - To: 05 November 2025
+From: 30 October 2025 - To: 06 November 2025
 
-Total Time: 18 hrs 2 mins
+Total Time: 22 hrs 18 mins
 
-TypeScript    15 hrs 16 mins  █████████████████████▒░░░   84.72 %
-SCSS          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-JavaScript    35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Markdown      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-YAML          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+TypeScript    13 hrs 34 mins  ███████████████▒░░░░░░░░░   60.87 %
+Vue.js        5 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.56 %
+SCSS          1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+JavaScript    40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JSON          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
