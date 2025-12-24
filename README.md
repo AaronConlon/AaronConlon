@@ -4,8 +4,6 @@ I'm `Aaron`, If you have any web development needs, please feel free to contact 
 
 如果你有一些 web 开发的需求，欢迎联系我。如果你们正在招聘远程 web 开发者，非常欢迎和我取得联系，我一直都想寻求一份远程开发的工作。
 
-~~I'm working for a tiny remote team.NICE!!!~~
-
 <img alt="Coding gif" src="./assets/Developer.gif" width="45" /> 
 
 **This week, I write:**
