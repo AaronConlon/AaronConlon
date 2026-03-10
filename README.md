@@ -32,9 +32,9 @@ SQL          17 mins               █▒░░░░░░░░░░░░░
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronConlon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AaronConlon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AaronConlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronConlon&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![AaronConlon's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AaronConlon&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📫 Reach me
 [![Github Badge](https://img.shields.io/badge/-Github-24292e?style=flat&logo=github&logoColor=white&link=)](https://github.com/AaronConlon) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rivenqinyy@gmail@gmail.com)](mailto:rivenqinyy@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AaronConlonDev)](https://twitter.com/AaronConlonDev)
