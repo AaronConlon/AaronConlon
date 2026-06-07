@@ -11,15 +11,15 @@ I'm `Aaron`, If you have any web development needs, please feel free to contact 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2026 - To: 05 June 2026
+From: 31 May 2026 - To: 07 June 2026
 
-Total Time: 11 hrs 6 mins
+Total Time: 23 hrs 50 mins
 
-TypeScript   4 hrs                 █████████░░░░░░░░░░░░░░░░   36.05 %
-Markdown     2 hrs 44 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
-Go           49 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-Other        44 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-SCSS         43 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Markdown     9 hrs 34 mins         ██████████░░░░░░░░░░░░░░░   40.17 %
+TypeScript   8 hrs 38 mins         █████████░░░░░░░░░░░░░░░░   36.27 %
+CSS          1 hr 50 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Go           1 hr 19 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+JavaScript   57 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
 <!--END_SECTION:waka-->
